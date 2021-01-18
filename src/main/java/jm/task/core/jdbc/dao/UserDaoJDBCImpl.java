@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserDaoJDBCImpl implements UserDao {
+/*public class UserDaoJDBCImpl implements UserDao {
     Statement statement = null;
     Util u = new Util();
 
@@ -92,4 +92,4 @@ public class UserDaoJDBCImpl implements UserDao {
         }
 
     }
-}
+}*/
